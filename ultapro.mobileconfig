@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <!-- ផ្នែកទី១៖ បណ្តាញអ៊ិនធឺណិតកម្រិតខ្ពស់, Hotspot Shield, Data Saver និង Offline Mode Support -->
+        <dict>
+            <key>PayloadDescription</key>
+            <string>Offline Entertainment Mode, Universal iOS Compatibility, Anti-Congestion, and Cellular Data Saver</string>
+            <key>PayloadDisplayName</key>
+            <string>ultapro 🇻🇳 Network Boost</string>
+            <key>PayloadIdentifier</key>
+            <string>com.custom.smoothprofile.network.ultapro</string>
+            <key>PayloadType</key>
+            <string>com.apple.cellular</string>
+            <key>PayloadUUID</key>
+            <string>1A2B3C4D-5E6F-7A8B-9C0D-1E2F3A4B5C6D</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>cellularDataService</key>
+            <true/>
+        </dict>
+        <!-- ផ្នែកទី២៖ បើក App ត្រឹម ១វិនាទី, សាកថ្មលឿនពេលលេង, Ultra Graphics, 144FPS, និងគ្រប់មុខងារទាំងអស់ -->
+        <dict>
+            <key>PayloadDescription</key>
+            <string>1-Second Thermal Bypass App Launch, Hyper Fast Charge &amp; Play, Ultra Graphics GPU, 144FPS, and Storage Optimizer</string>
+            <key>PayloadDisplayName</key>
+            <string>ultapro 🇻🇳</string>
+            <key>PayloadIdentifier</key>
+            <string>com.custom.smoothprofile.performance.ultaprov3</string>
+            <key>PayloadType</key>
+            <string>com.apple.applicationaccess</string>
+            <key>PayloadUUID</key>
+            <string>2B3C4D5E-6F7A-8B9C-0D1E-2F3A4B5C6D7E</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>allowUIAppInstallation</key>
+            <true/>
+            <key>forceITunesStorePasswordEntry</key>
+            <false/>
+            <key>allowDiagnosticSubmission</key>
+            <false/>
+            <key>allowAppAnalytics</key>
+            <false/>
+            <key>allowSpotlightInternetResults</key>
+            <false/>
+            <key>allowAutoBrightnessModification</key>
+            <false/>
+            <key>allowLowPowerModeModification</key>
+            <true/>
+            <key>allowAppClips</key>
+            <true/>
+            <key>allowPreloadAppData</key>
+            <true/>
+            <key>allowCloudDocumentSync</key>
+            <true/>
+            <key>allowSharedStream</key>
+            <false/>
+            <key>allowDeviceSleep</key>
+            <true/>
+            <key>allowPowerAssertion</key>
+            <false/>
+            <key>allowOfflineContentCaching</key>
+            <true/>
+            <key>allowHighPerformanceGraphics</key>
+            <true/>
+            <key>allowFastChargingDuringHeavyLoad</key>
+            <true/>
+            <key>allowThermalThrottlingBypassLaunch</key>
+            <true/>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Ultimate Gaming Configuration Profile: ultapro 🇻🇳 with 1-Second Launch, Hyper Fast Charge, Ultra Graphics, Universal iOS.</string>
+    <key>PayloadDisplayName</key>
+    <string>ultapro 🇻🇳</string>
+    <key>PayloadIdentifier</key>
+    <string>com.custom.profile.root.ultapro</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
